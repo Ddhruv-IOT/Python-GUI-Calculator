@@ -78,7 +78,7 @@ root.minsize(400, 500)
 root.maxsize(400, 500)
 
 # setting icon
-root.wm_iconbitmap("cal.ico")
+root.wm_iconbitmap("/assets/cal.ico")
 
 # setting title of window
 root.title("Tkt Calculator")
