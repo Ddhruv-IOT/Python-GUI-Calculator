@@ -3,7 +3,7 @@
 # Overview:
 It is a simple calculator project made in python using Tkinter.
 <br> It is the 1st assignment of python-advance training at TechieNest Pvt. Ltd.
-<br> It is a simple and easy project in python.
+<br> It is a simple and easy project.
 
 # Tools and Technologies used: 
 - Python 3
